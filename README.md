@@ -10,8 +10,8 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <br />
+<h2> My Links </h2>   
 
-<h2> My Links </h2>
 📙 [Notion Resume](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
 📖 [Blog](https://hseongchan2.tistory.com/)
 
