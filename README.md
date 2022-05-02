@@ -10,14 +10,14 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <br />
-<h2> My Links </h2>   
+<h2> My Links 🔗 </h2>   
 
 - 📃 [Notion](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
 
 - 📖 [Blog](https://hseongchan2.tistory.com/)
 
 <br />
-<h2> Special Experiment </h2>  
+<h2> Special Experiment 👍 </h2>  
 
 - 🎉 [Postech Apple Developer Academy Apply](https://github.com/Hschan2/Postech-Apple-Developer-Academy)
 
