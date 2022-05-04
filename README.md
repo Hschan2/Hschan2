@@ -19,7 +19,8 @@
 <br />
 <h2> Special Experiment 👍 </h2>  
 
-- 🎉 [Postech Apple Developer Academy Apply](https://github.com/Hschan2/Postech-Apple-Developer-Academy)
+- 🎉 [Postech Apple Developer Academy Apply](https://github.com/Hschan2/Postech-Apple-Developer-Academy)   
+- 😥 [중견기업 I사 면접 후기](https://github.com/Hschan2/Experiment-Job_knowledge/blob/main/I%EC%82%AC%20%EB%A9%B4%EC%A0%91%20%ED%9B%84%EA%B8%B0.md)
 
 <br />
 <h2> My tech stack 📚 </h2>
