@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning React + Spring Project
+- 📫 How to reach me: seongchan_@naver.com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: seongchan_@naver.com
+<!-- - 🔭 I’m currently working on ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -13,13 +13,12 @@
 <h2> My Links 🔗 </h2>   
 
 - 📃 [Notion](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
-
 - 📖 [Blog](https://hseongchan2.tistory.com/)
 
 <br />
 <h2> Special Experiment 👍 </h2>  
 
-- 🎉 [Postech Apple Developer Academy Apply](https://github.com/Hschan2/Postech-Apple-Developer-Academy)   
+- 🎉 [Postech Apple Developer Academy 최종 추가 합격](https://github.com/Hschan2/Postech-Apple-Developer-Academy)   
 - 😥 [중견기업 I사 면접 후기](https://github.com/Hschan2/Experiment-Job_knowledge/blob/main/I%EC%82%AC%20%EB%A9%B4%EC%A0%91%20%ED%9B%84%EA%B8%B0.md)
 
 <br />
