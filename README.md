@@ -12,7 +12,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning React + Spring Project
-- 📫 [![send email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com)
+- 📫 [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com) [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com) 
 
 <br />
 
