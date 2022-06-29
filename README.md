@@ -6,32 +6,30 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&langs_count=10&layout=compact&theme=onedark)](https://github.com/deslog)
 
 </div>
+
 <br />
 
 ## Hi there 👋
 
 - 🌱 I’m currently learning React + Spring Project
-- 📫 How to reach me: seongchan_@naver.com
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- 📫 [![send email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com)
 
 <br />
+
 <h2> My links 🔗 </h2>   
 
-- 📃 [Notion](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
-- 📖 [Blog](https://hseongchan2.tistory.com/)
+- 📃 [![Notion](https://img.shields.io/badge/Notion-AEAEAE?style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
+- 📖 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)
 
 <br />
+
 <h2> Special experiment 👍 </h2>  
 
 - 🎉 [Postech Apple Developer Academy 최종 추가 합격](https://github.com/Hschan2/Postech-Apple-Developer-Academy)   
 - 😥 [중견기업 I사 면접 후기](https://github.com/Hschan2/Experiment-Job_knowledge/blob/main/I%EC%82%AC%20%EB%A9%B4%EC%A0%91%20%ED%9B%84%EA%B8%B0.md)
 
 <br />
+
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
