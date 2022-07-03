@@ -45,4 +45,5 @@
 <br/>
 
 <h2> ETC.. </h2>
-* 일부 Repository 삭제로 인해 잔디 사라짐  
+
+- 일부 Repository 삭제로 인해 잔디 사라짐  
