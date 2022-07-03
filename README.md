@@ -43,3 +43,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br/>
+
+<h2> ETC.. </h2>
+* 일부 Repository 삭제로 인해 잔디 사라짐  
