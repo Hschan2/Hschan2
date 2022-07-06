@@ -1,4 +1,4 @@
-## Github status 🏃
+## 깃허브 상태 🏃
 
 <div align=center>
   
@@ -9,28 +9,28 @@
 
 <br />
 
-## Hi there 👋
+## 인사 👋
 
 - 🌱 I’m currently learning React + Spring Project
 - 📫 [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com) [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com) 
 
 <br />
 
-<h2> My links 🔗 </h2>   
+<h2> 링크 🔗 </h2>   
 
 - 📃 [![Notion](https://img.shields.io/badge/Notion-AEAEAE?style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
 - 📖 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)
 
 <br />
 
-<h2> Special experiment 👍 </h2>  
+<h2> 경험 👍 </h2>  
 
 - 🎉 [Postech Apple Developer Academy 최종 추가 합격](https://github.com/Hschan2/Postech-Apple-Developer-Academy)   
 - 😥 [중견기업 I사 면접 후기](https://github.com/Hschan2/Experiment-Job_knowledge/blob/main/I%EC%82%AC%20%EB%A9%B4%EC%A0%91%20%ED%9B%84%EA%B8%B0.md)
 
 <br />
 
-<h2> My tech stack 📚 </h2>
+<h2> 기술 스택 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -44,6 +44,6 @@
 
 <br/>
 
-<h2> ETC.. </h2>
+<h2> 특이사항 </h2>
 
 - 일부 Repository 삭제로 인해 잔디 사라짐  
