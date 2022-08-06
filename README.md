@@ -11,7 +11,7 @@
 
 ## 인사 👋
 
-- 🌱 React JS를 배우고 있어요. 중간중간에 Spring도 배우고 있어요.
+- 🌱 React JS를 배우고 있어요. 스프링도 조금 배우고 있어요.
 - 📫 [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com) [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com) 
 
 <br />
