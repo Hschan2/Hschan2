@@ -50,5 +50,5 @@
 <h2> 특이사항 ❗ </h2>
 
 - 😱 일부 Repository 삭제로 인해 잔디 소실됐어요.   
-- 🧱 각 Repository의 README를 깔끔하게 정리하고 있어요.   
+- 🧱 대부분의 Repository의 README.md 목록을 테이블로 정리했어요.   
 
