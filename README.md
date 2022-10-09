@@ -17,7 +17,12 @@
 
 <br />
 
-<h2> 링크 🔗 </h2>   
+<h2> 목표 💪 </h2>   
+- 의미없는 1일 1커밋보다 의미있는 1커밋을 새로운 목표로 정했어요. 앞으로 실천하는 노력을 할 거에요.
+
+<br />
+
+<h2> 블로그 링크 🔗 </h2>   
 
 - 📃 [![Notion](https://img.shields.io/badge/Notion-AEAEAE?style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
 - 📖 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)
