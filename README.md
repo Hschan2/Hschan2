@@ -11,8 +11,8 @@
 
 ## 인사 👋
 
-- 🔥 1일 1커밋을 목표하고 있어요!
-- 🌱 React JS를 배우고 있어요. 스프링도 조금 배우고 있어요.
+- 🌱 자바스크립트를 중심으로 배우고 있어요.
+- 😅 프론트엔드와 백엔드 모두 잘하고 싶은 마음이 가득해요.
 - 📫 [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com) [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com) 
 
 <br />
@@ -20,7 +20,7 @@
 <h2> 목표 💪 </h2>   
 
 - 🤓 의미없는 1일 1커밋을 줄일 거에요.
-- 🥸 의미있는 1커밋을 새로운 목표로 정했어요. 앞으로 실천하는 노력을 할 거에요.  
+- 🔥 의미있는 1커밋을 새로운 목표로 정했어요. 앞으로 실천하는 노력을 할 거에요.  
 
 <br />
 
