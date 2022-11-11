@@ -2,6 +2,7 @@
 
 <div align=center>
   
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hseongchan2)](https://solved.ac/hseongchan2)
   ![Hschan2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hschan2&show_icons=true&theme=onedark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&langs_count=10&layout=compact&theme=onedark)](https://github.com/deslog)
 
