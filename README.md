@@ -13,7 +13,7 @@
 ## 인사 👋
 
 - 🌱 자바스크립트를 중심으로 배우고 있어요.
-- 😅 프론트엔드와 백엔드 모두 잘하고 싶은 마음이 가득해요.
+- 😅 프론트엔드와 백엔드 모두 잘하고 싶고 지금은 프론트엔드에 집중하고 있어요.
 - 📫 [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com) [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com) 
 
 <br />
