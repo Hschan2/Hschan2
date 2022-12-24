@@ -39,6 +39,20 @@
 
 <br />
 
+<h2> 과정 👟 </h2>  
+
+- 😮 멋쟁이 사자처럼 Python 국비지원 과정 참여했어요.
+- 😵 우아한테크코스 4주 간 프리코스를 완료했어요. [회고록](https://hseongchan2.tistory.com/31)도 작성해봤어요.
+
+<br />
+
+<h2> 특이사항 ❗ </h2>
+
+- 😱 일부 Repository 삭제로 인해 잔디가 소실됐어요.   
+- 🧱 대부분의 Repository의 README.md 목록을 테이블로 정리했어요.   
+
+<br/>
+
 <h2> 기술 스택 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -72,10 +86,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <br/>
-
-<h2> 특이사항 ❗ </h2>
-
-- 😱 일부 Repository 삭제로 인해 잔디가 소실됐어요.   
-- 🧱 대부분의 Repository의 README.md 목록을 테이블로 정리했어요.   
-- 😵 우아한테크코스 4주 간 프리코스를 완료했어요. [회고록](https://hseongchan2.tistory.com/31)도 작성해봤어요.
-
