@@ -27,7 +27,8 @@
 <h2> 블로그 링크 🔗 </h2>   
 
 - 📃 [![Notion](https://img.shields.io/badge/Notion-AEAEAE?style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)   
-- 📖 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)   
+- 📖 [![Dev Blog](https://img.shields.io/badge/Dev_Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)  
+- 📖 [![Design Blog](https://img.shields.io/badge/Design_Blog-2DB400?style=flat&logoColor=white)]([https://hseongchan2.tistory.com/](https://blog.naver.com/seongchan_/222928254685))  
 
 <br />
 
