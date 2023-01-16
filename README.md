@@ -2,9 +2,9 @@
 
 <div align=center>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Hschan2's GitHub stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=Hschan2&show_icons=true&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hseongchan2)](https://solved.ac/hseongchan2)
 
 </div>
