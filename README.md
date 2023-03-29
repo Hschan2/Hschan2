@@ -37,7 +37,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-<h3>Services</h3>
+<h3>Deploy</h3>
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-ED8B00?style=flat&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-lambda-ED8B00?style=flat&logo=AWS-LAMBDA&logoColor=white)
