@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-304674?style=flat&logo=typescript)
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-9999FF?style=flat&logo=StyledComponents)
 
 <h3>Back-End</h3>
 
