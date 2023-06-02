@@ -5,11 +5,11 @@
 
 <div align=center>
   
-  [![naver email](https://img.shields.io/badge/Naver%20Email-12A614?style=flat&logoColor=white)](mailto:seongchan_@naver.com)
-  [![gmail email](https://img.shields.io/badge/Gmail%20Email-D21F1F?style=flat&logoColor=white)](mailto:hseongchan2@gmail.com)
-  [![Notion Portfolio](https://img.shields.io/badge/Notion_Portfolio-AEAEAE?style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)
-  [![Dev Blog](https://img.shields.io/badge/Dev_Blog-000000?style=flat&logoColor=white)](https://hseongchan2.tistory.com/)
-  [![Design Blog](https://img.shields.io/badge/Design_Blog-2DB400?style=flat&logoColor=white)](https://blog.naver.com/seongchan)
+  [![naver email](https://img.shields.io/badge/Naver%20Mail-12A614?logo=naver&style=flat&logoColor=white)](mailto:seongchan_@naver.com)
+  [![gmail email](https://img.shields.io/badge/Gmail-D21F1F?logo=google&style=flat&logoColor=white)](mailto:hseongchan2@gmail.com)
+  [![Notion Portfolio](https://img.shields.io/badge/Notion_Portfolio-AEAEAE?logo=notion&style=flat&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)
+  [![Dev Blog](https://img.shields.io/badge/Dev_Blog-000000?logo=tistory&style=flat&logoColor=white)](https://hseongchan2.tistory.com/)
+  [![Design Blog](https://img.shields.io/badge/Design_Blog-2DB400?logo=naver&style=flat&logoColor=white)](https://blog.naver.com/seongchan)
 
 <br />
   
