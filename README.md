@@ -62,6 +62,7 @@
 <h4>Front-End</h4>
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 
 <h4>Back-End</h4>
 
