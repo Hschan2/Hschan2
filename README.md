@@ -99,7 +99,8 @@
 - 🎉 기업 면접, K 아카데미 테스트, POSTECH Apple Developer Academy 합격 후기 [[읽기](https://github.com/Hschan2/Experiment-Job_knowledge/tree/main/Experiment)]
 - 😮 멋쟁이 사자처럼 Python 국비지원 과정 참여 [중도하차]
 - 😵 우아한테크코스 4주 간 프리코스 과정 참여 [[회고록 읽기](https://hseongchan2.tistory.com/31)]
-- 😂 취준컴퍼니 By 로켓펀치 활동에 참여중 [알럼나이]
+- 😂 취준컴퍼니 By 로켓펀치 활동에 참여 [알럼나이]
+- 😄 원티드 프리온보딩 챌린지 프론트엔드 참여
 
 <br />
 
