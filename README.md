@@ -13,8 +13,8 @@
 
 <br />
   
-[![Hschan2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hschan2)](https://github.com/Hschan2/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hschan2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hschan2&show_icons=true&theme=radical)](https://github.com/Hschan2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hschan2&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
