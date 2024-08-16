@@ -60,7 +60,7 @@
 
 <h4>Dev Tools</h4>
 
-[![Dev-Tools](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![Dev-Tools](https://skillicons.dev/icons?i=idea,jest)](https://skillicons.dev)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 <br/>
