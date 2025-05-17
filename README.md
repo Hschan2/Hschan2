@@ -19,11 +19,11 @@
 ## 📚 Skills Used (사용한 기술들)
 <h4>Front-End</h4>
 
-[![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents)](https://skillicons.dev)
+[![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,tailwind)](https://skillicons.dev)
 
 <h4>Back-End</h4>
 
-[![Back-End](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=nodejs,express,next)](https://skillicons.dev)
 
 <h4>Data</h4>
 
