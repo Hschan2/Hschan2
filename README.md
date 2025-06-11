@@ -71,3 +71,4 @@
 <br />
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hseongchan2)](https://solved.ac/hseongchan2)
+![image](https://github.com/user-attachments/assets/6209a2b2-7374-44d9-bce2-68ea34e03173)
