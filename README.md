@@ -48,7 +48,7 @@
 
 <h4>Back-End</h4>
 
-[![Back-End](https://skillicons.dev/icons?i=java,spring,php)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=java,spring,php,python)](https://skillicons.dev)
 
 <h4>Data</h4>
 
