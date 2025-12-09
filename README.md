@@ -2,8 +2,8 @@
   <h2>👋 Hi, 저는 홍성찬입니다.</h2>
 </div>
 
-<span>● 컴퓨터정보공학과 전공하였으며, C언어를 시작으로 JSP/Java/PHP의 지식을 학습하였습니다.</span><br/>
-<span>● JavaScript에 빠지고, React를 사랑하기 시작했으며, NextJS와 TypeScript을 관심으로 다루고 있습니다.</span><br/>
+<span>● 컴퓨터공학 전공, C언어/JSP/Java/PHP의 언어로 프로그래밍 시작하였습니다.</span><br/>
+<span>● 웹 개발을 중점으로 하면서 JavaScript에 빠지고, React를 좋아하며, NextJS와 TypeScript에 대해 관심을 갖고 있습니다.</span><br/>
 <span>● Node.js, Spring 등 백엔드 지식도 충분히 갖춘 올라운드형 프론트엔드 개발자를 목표합니다.</span><br/>
 
 <br />
