@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hseongchan2@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/HS-ead5a5d6a41a4116b63d4ec5bf830253)
 [![Dev Blog](https://img.shields.io/badge/Dev%20Blog-12B886.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seongchan/posts)
-[![(Previous)Dev Blog](https://img.shields.io/badge/Dev%20Blog-FF5A4A.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://hseongchan2.tistory.com/)
+[![(Previous)Dev Blog](https://img.shields.io/badge/Previou_Dev%20Blog-FF5A4A.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://hseongchan2.tistory.com/)
 [![Design Blog](https://img.shields.io/badge/Design%20Blog-12A614?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/seongchan)
 
 <br />
