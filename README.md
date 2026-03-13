@@ -35,6 +35,12 @@
 [![Dev-Tools](https://skillicons.dev/icons?i=github,vite,npm,vscode,discord)](https://skillicons.dev)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
+<h4>AI Tools</h4>
+
+![Gemini](https://img.shields.io/badge/-Gemini-1e1e1e?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Gemini-CLI](https://img.shields.io/badge/Gemini--CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-1e1e1e?style=flat-square&logo=openai&logoColor=74aa9c)
+
 <h4>Graphic Tools</h4>
 
 [![Dev-Tools](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
@@ -63,6 +69,10 @@
 
 [![Dev-Tools](https://skillicons.dev/icons?i=idea,jest)](https://skillicons.dev)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+<h4>AI Tools</h4>
+
+![Copilot](https://img.shields.io/badge/-Copilot-1e1e1e?style=flat-square&logo=githubcopilot&logoColor=ffffff)
 
 <br/>
 
